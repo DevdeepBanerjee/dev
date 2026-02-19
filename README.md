@@ -46,6 +46,4 @@ Install PyWebIO before running the program:
 pip install pywebio
 
 
-#Run the Python file using
 
-   python BMI_CALCULATOR.py
